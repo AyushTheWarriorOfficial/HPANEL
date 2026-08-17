@@ -1,0 +1,30 @@
+H Panel Attribution License 1.0
+
+Copyright (c) 2026 GorrilaCoderz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice must be included in
+   all copies or substantial portions of the Software.
+
+2. All versions of the Software, including modified versions, must visibly
+   display "Powered by H Panel" and "Copyright (c) 2026 GorrilaCoderz/ayush" within
+   the panel interface.
+
+3. Users may not remove, hide, alter, or replace the attribution notice
+   without prior written permission from the copyright holder.
+
+4. Any distribution of the Software must include a copy of this license.
+
+Failure to comply with these conditions immediately terminates the rights
+granted under this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
